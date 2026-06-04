@@ -1,0 +1,15 @@
+buatkan issue.md berisi planning membuat ini :
+
+buat project baru di folder ini
+
+menggunakan typescript
+
+dan menggunakan dependency 
+- nextjs
+- ui.shadcn
+- postgresql
+- drizzle orm
+
+jangan terlalu low level atau detail
+cukup intruksikan secara high level
+nanti document planning nya akan digunakan oleh programmer pemula atau model agent yang lebih murah untuk di implementasikan
